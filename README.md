@@ -41,7 +41,8 @@ Y = 365 (mod 10) = 5
 
 Nejdříve propojíme notebook se switchem přes RS232 port na notebooku a pak do zdířky jménem console dáme přípojku RJ45 na konci. Pak jdeme do aplikace terminal na notebooku a hned co budeme mít configurační terminál přes conf t, můžeme napsat hostname S1.
 
-<img width="403" height="183" alt="Screenshot 2026-03-30 190435" src="https://github.com/user-attachments/assets/cfd7b25e-41b4-4b06-af0e-6b70729eff76" />
+
+<img width="203" height="31" alt="Screenshot 2026-03-30 185754" src="https://github.com/user-attachments/assets/8059ed35-8c24-4b92-82f6-b5e13a7231af" />
 
 
 
