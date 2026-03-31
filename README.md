@@ -51,7 +51,7 @@ Nejdříve propojíme notebook se switchem přes RS232 port na notebooku a pak d
 Po tom co si nastavíme switch, můžeme jít na PC1, kde si nastavíme IP adresu staticky a pak můžeme jít do command promptu a dát command *ipconfig*, kde pak dostaneme informace o IP adrese, masce, gateway, atd.
 
 
-<img width="433" height="157" alt="Screenshot 2026-03-30 190115" src="https://github.com/user-attachments/assets/44e38484-d201-4f34-b34c-f2261f7715c3" />
+<img width="493" height="180" alt="image" src="https://github.com/user-attachments/assets/35fb4f63-7c04-4630-bad5-91250cd01e2e" />
 
 
 ### Ping z PC1 na PC4
